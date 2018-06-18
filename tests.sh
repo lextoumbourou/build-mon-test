@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Some change
+
 if [ $1 = "fail" ]; then
   exit 1
 fi
